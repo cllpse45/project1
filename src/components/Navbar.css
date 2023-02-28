@@ -1,0 +1,26 @@
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 100px;
+    padding: 10px 15px;
+}
+
+.nav--logo_text{
+    color: #61DAFB;
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: auto;
+
+}
+
+.nav--title{
+    color: #DEEBF8;
+    font-weight: 600;
+
+}
+
+.nav--icon{
+    height: 30px;
+    margin-right: 15px;
+}
